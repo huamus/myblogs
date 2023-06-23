@@ -45,7 +45,7 @@ jobs:
         with:
           # 使用ssh要生成github access token，然后在仓库的setting的actions里新建secret，值放入token。
           # 然后在这里自行添加指定的secret
-          token: ${{ secrets.ACCESS_TOKEN }} # 也就是我们刚才生成的 secret
+          token: ${{ secrets.ACCESS_TOKEN }}
           # 这是文档部署到的分支名称
           branch: gh-pages
           folder: src/.vuepress/dist
