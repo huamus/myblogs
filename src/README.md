@@ -3,7 +3,7 @@ home: true
 layout: BlogHome
 icon: home
 title: 博客主页
-heroImage: /logo.svg
+# heroImage: /logo.svg
 heroText: huamus
 heroFullScreen: true
 tagline: Hello world
