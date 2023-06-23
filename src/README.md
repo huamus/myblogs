@@ -4,9 +4,13 @@ layout: BlogHome
 icon: home
 title: 博客主页
 heroImage: /logo.svg
-heroText: 你博客的名称
+heroText: huamus
 heroFullScreen: true
-tagline: 你可以在这里放置你的口号与标语
+tagline: Hello world
+bgImage: 
+bgImageDark: https://raw.githubusercontent.com/huamus/picture-bed/main/%E6%BC%82%E4%BA%AE%E7%BE%8E%E5%B0%91%E5%A5%B3%20%E5%A5%B3%E5%AD%A9%E5%AD%90%20%E6%89%8B%E6%9C%BA%20%E7%99%BD%E8%A3%A4%E8%A2%9C%20%E7%BE%8E%E8%84%9A%E7%BE%8E%E8%85%BF%20%E5%A5%BD%E7%9C%8B%E4%BA%8C%E6%AC%A1%E5%85%834k%E5%8A%A8%E6%BC%AB%E5%A3%81%E7%BA%B8_%E5%BD%BC%E5%B2%B8%E5%9B%BE%E7%BD%91.jpg
+bgImageStyle:
+  background-attachment: fixed
 projects:
   - icon: project
     name: 项目名称
