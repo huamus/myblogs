@@ -31,10 +31,10 @@ export default sidebar({
       ],
     },
     {
-      text: "教程",
+      text: "知识库",
       icon: "signs-post",
-      prefix: "cookbook/",
-      children: ["tutorial/", "markdown/", "vuepress/", "customize/"],
+      prefix: "knowledgeBase/",
+      children: ["xiaolinCoding/", "JavaGuide/"],
     },
     {
       text: "迁移",
@@ -57,7 +57,7 @@ export default sidebar({
 
   "/zh/config/": "structure",
 
-  "/zh/cookbook/": "structure",
+  "/knowledgeBase/": "structure",
 
   "/zh/demo/": "structure",
 });
