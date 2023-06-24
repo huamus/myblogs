@@ -24,6 +24,8 @@ export default hopeTheme({
   // navbar
   navbar,
 
+  navbarIcon: false,
+
   // sidebar
   sidebar,
 
