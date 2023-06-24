@@ -1,12 +1,12 @@
 import { navbar } from "vuepress-theme-hope";
 
 export default navbar([
-  "/",
-  "/demo/",
+  // "/",
+  // "/demo/",
   {
     text: "知识库",
     prefix: "/IT知识库/",
-    children: ["小林coding", "Java八股文"]
+    children: ["小林coding/", "Java八股文/"],
   },
   {
     text: "博文",
