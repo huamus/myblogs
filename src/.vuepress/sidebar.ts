@@ -1,7 +1,7 @@
 import { sidebar } from "vuepress-theme-hope";
 
 export default sidebar({
-  "/": [
+  "/xiaolinCoding": [
     // 博客主页
     // "",
     {
