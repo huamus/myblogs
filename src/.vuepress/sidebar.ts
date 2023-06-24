@@ -19,9 +19,6 @@ export default sidebar({
   //   "intro",
   //   "slides",
   // ],
-  "/": [
-
-  ],
   "/xiaolinCoding/": "structure",
   "/JavaGuide/": "structure"
 });
