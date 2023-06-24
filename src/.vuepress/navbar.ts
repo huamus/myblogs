@@ -5,8 +5,8 @@ export default navbar([
   // "/demo/",
   {
     text: "知识库",
-    prefix: "/IT知识库/",
-    children: ["小林coding/", "Java八股文/"],
+    prefix: "/knowledgeBase/",
+    children: ["JavaGuide/", "xiaolinCoding/"],
   },
   {
     text: "博文",
