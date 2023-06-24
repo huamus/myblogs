@@ -1,65 +1,64 @@
 import { sidebar } from "vuepress-theme-hope";
 
 export default sidebar({
-  "/": [
+  "/zh/": [
     "",
     {
-      text: "知识库",
+      text: "指南",
       icon: "lightbulb",
-      prefix: "knowledgeBase/",
+      prefix: "guide/",
       children: [
-        "xiaolinCoding/",
-        "JavaGuide/"
+        "get-started/",
+        "interface/",
+        "layout/",
+        "markdown/",
+        "feature/",
+        "blog/",
+        "advanced/",
       ],
     },
     {
-      text: "文章",
-      icon: "book",
-      prefix: "posts/",
-      children: "structure",
+      text: "配置",
+      icon: "gears",
+      prefix: "config/",
+      children: [
+        "intro",
+        "i18n",
+        "theme/",
+        "plugins/",
+        "frontmatter/",
+        "style",
+      ],
     },
-    "intro",
-    "slides",
+    {
+      text: "教程",
+      icon: "signs-post",
+      prefix: "cookbook/",
+      children: ["tutorial/", "markdown/", "vuepress/", "customize/"],
+    },
+    {
+      text: "迁移",
+      icon: "code-compare",
+      prefix: "migration/",
+      children: ["highlight", "config", "page", "style"],
+    },
+    {
+      text: "常见问题",
+      icon: "circle-question",
+      prefix: "faq/",
+      children: ["", "troubleshooting", "common-error", "vite", "safari"],
+    },
+    "demo/",
+    "changelog",
+    "contribution",
   ],
 
-  "/knowledge/": "structure",
-  "/book/": "structure",
-  // "/": [
-  //   // 博客主页
-  //   // "",
-  //   {
-  //     text: "图解网络",
-  //     icon: "laptop-code",
-  //     prefix: "/computerNetworks/",
-  //     children: "structure",
-  //   },
-  //   {
-  //     text: "图解操作系统",
-  //     icon: "laptop-code",
-  //     prefix: "/operatingSystem/",
-  //     children: "structure",
-  //   },
-  //   {
-  //     text: "MySQL",
-  //     icon: "laptop-code",
-  //     prefix: "/MySQL/",
-  //     children: "structure",
-  //   },
-    
-  //   {
-  //     text: "如何使用",
-  //     icon: "laptop-code",
-  //     prefix: "demo/",
-  //     link: "demo/",
-  //     children: "structure",
-  //   },
-  //   {
-  //     text: "文章",
-  //     icon: "book",
-  //     prefix: "posts/",
-  //     children: "structure",
-  //   },
-  //   "intro",
-  //   "slides",
-  // ],
+  "/zh/guide/": "structure",
+
+  "/zh/config/": "structure",
+
+  "/zh/cookbook/": "structure",
+
+  "/zh/demo/": "structure",
 });
+
