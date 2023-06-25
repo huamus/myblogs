@@ -6,7 +6,7 @@ export default navbar([
   {
     text: "知识库",
     prefix: "/knowledgeBase/",
-    children: ["JavaGuide/", "xiaolinCoding/"],
+    children: ["JavaCompanion/", "xiaolinCoding/"],
   },
   {
     text: "博文",
