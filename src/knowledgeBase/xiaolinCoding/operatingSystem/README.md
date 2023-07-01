@@ -1,5 +1,5 @@
 ---
-title: 三、操作系统
+title: 操作系统
 index: false
 ---
 
