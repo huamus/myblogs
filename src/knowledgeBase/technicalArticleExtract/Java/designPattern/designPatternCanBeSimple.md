@@ -5,9 +5,9 @@ isOriginal: false
 data: 2023-7-20
 ---
 
-原文链接：https://www.javadoop.com/post/design-pattern
-
-作者：Javadoop
+> 原文链接：https://www.javadoop.com/post/design-pattern
+>
+> 作者：Javadoop
 
 设计模式是对大家实际工作中写的各种代码进行高层次抽象的总结，其中最出名的当属 Gang of Four (GoF) 的分类了，他们将设计模式分类为 23 种经典的模式，根据用途我们又可以分为三大类，分别为创建型模式、结构型模式和行为型模式。
 
