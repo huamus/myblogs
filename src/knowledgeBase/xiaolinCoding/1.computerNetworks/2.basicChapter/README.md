@@ -1,5 +1,6 @@
 ---
 title: 二、基础篇
 index: false
-order: 2
+dir:
+  order: 2
 ---

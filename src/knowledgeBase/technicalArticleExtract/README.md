@@ -1,7 +1,8 @@
 ---
 title: 技术文章摘录
 index: false
-order: 3
+dir:
+  order: 3
 ---
 
 内容基本来自网络上各位大佬的个人技术博客。整理的目的：

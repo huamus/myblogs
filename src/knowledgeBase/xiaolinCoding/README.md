@@ -1,7 +1,8 @@
 ---
 title: 小林coding整理版
 index: false
-order: 1
+dir:
+  order: 1
 ---
 
 

@@ -1,6 +1,7 @@
 ---
 title: 五、IP篇
 index: false
-order: 5
+dir:
+  order: 5
 ---
 
