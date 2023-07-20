@@ -1,6 +1,5 @@
 ---
 title: 设计模式也可以这么简单
-index: false
 author: javadoop
 isOriginal: false
 data: 2023-7-20
