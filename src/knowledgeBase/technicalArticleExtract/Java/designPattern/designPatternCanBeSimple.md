@@ -1,6 +1,6 @@
 ---
 title: 设计模式也可以这么简单
-author: javadoop
+author: huamus
 isOriginal: false
 data: 2023-7-20
 ---

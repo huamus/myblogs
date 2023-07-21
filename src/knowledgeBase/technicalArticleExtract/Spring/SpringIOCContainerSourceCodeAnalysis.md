@@ -1,6 +1,6 @@
 ---
 title: Spring IOC 容器源码分析
-author: javadoop
+author: huamus
 isOriginal: false
 data: 2023-7-20
 ---
