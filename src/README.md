@@ -10,8 +10,8 @@ heroText: huamus
 tagline: Hello world
 # 信息全屏展示
 heroFullScreen: true
-bgImage: https://sm.ms/image/SQDcEi5XyozVYHu
-bgImageDark: https://sm.ms/image/SQDcEi5XyozVYHu
+bgImage: https://api.mfstudio.cc/bing/
+bgImageDark: https://api.mfstudio.cc/bing/
 bgImageStyle:
   background-attachment: fixed
 
